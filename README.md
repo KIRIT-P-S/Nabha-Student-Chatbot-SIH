@@ -77,5 +77,12 @@ nabha-digital-learning-chatbot/
 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
-📜 License
-This project is open-source under the MIT License.
+## ✍️ Author
+- **Created by:** KIRIT P S  
+- **Year:** 2025  
+
+## 📜 License
+This project is licensed under the **MIT License**.  
+
+You are free to use, modify, and distribute this project, but attribution to the original author is required.  
+
